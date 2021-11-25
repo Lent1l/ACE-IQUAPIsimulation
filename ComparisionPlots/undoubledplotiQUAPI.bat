@@ -1,4 +1,4 @@
 iQUAPI read_J_PT_iQUAPI_ohmic.param
-gnuplot doublediQUAPI.plt
-pdflatex doublediQUAPI.tex
+gnuplot undoublediQUAPI.plt
+pdflatex undoublediQUAPI.tex
 doublediQUAPI.pdf
