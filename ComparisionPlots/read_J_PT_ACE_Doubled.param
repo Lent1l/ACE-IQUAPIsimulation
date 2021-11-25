@@ -1,0 +1,18 @@
+te                   100
+dt                     0.05
+threshold              1e-7
+
+use_Gaussian           true
+Boson_J_from_file      ohmic.J
+Boson_subtract_polaron_shift  true
+temperature            0
+
+
+initial                { |0><0|_2 }
+add_Hamiltonian        { hbar/2 * (|0><1|_2 + |1><0|_2) }
+
+add_Output             { |1><1|_2 }
+add_Output             { |0><1|_2 }
+add_Output             { |0><0|_2 }
+
+outfile                read_J_PT_PS.out

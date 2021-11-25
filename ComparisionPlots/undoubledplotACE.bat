@@ -1,0 +1,4 @@
+iQUAPI read_J_PT_iQUAPI_ohmic.param
+gnuplot basicfittingundoubled.plt
+pdflatex undoubledfit.tex
+undoubledfit.pdf
