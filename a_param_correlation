@@ -1,0 +1,16 @@
+doubling energy
+dt                     0.5
+n_max 			           10
+
+0.00157141, 0.00365458
+
+dt                     0.4
+n_max 			           14
+
+doesn't Work
+
+dt                     0.5
+n_max 			           11
+reduce spec. dens. steepness by factor of 2
+
+0.000801691, 0.00181882

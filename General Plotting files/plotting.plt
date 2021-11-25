@@ -1,5 +1,5 @@
 set terminal epslatex color standalone size 12cm,6cm
-set output "undoublediQUAPI.tex"
+set output "PlotOutput.tex"
 
 set xrange [0:100]
 set yrange [-0.1:1.5]

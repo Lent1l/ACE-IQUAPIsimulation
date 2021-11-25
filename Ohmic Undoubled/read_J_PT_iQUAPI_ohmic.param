@@ -1,6 +1,6 @@
 te                   100
 dt                     0.5
-n_max 			           10
+n_max 			           11
 
 use_Gaussian           true
 Boson_J_from_file      ohmic.J

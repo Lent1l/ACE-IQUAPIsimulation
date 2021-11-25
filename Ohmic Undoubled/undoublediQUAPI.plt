@@ -5,7 +5,7 @@ set xrange [0:100]
 set yrange [-0.1:1.5]
 set ylabel 'probability of state occupation'
 set xlabel 'time'
-set title 'Fitting of ohmic spectral density time evolution (E = $\hbar / 2$)'
+set title 'Fitting of ohmic spectral density time evolution (E = $\frac{\hbar}{ 2} * 0.5$)'
 
 f(x) = 0.5 - 0.5*(cos(w*x))*exp(-a*x)
 
