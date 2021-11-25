@@ -1,0 +1,148 @@
+
+
+*******************************************************************************
+Thu Nov 25 12:45:39 2021
+
+
+FIT:    data read from "read_J_PT_iQUAPI_ohmic.out" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 100.000]
+        #datapoints = 201
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = 0.5 - 0.5*(cos(w*x))*exp(-a*x)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   w             a            
+   0 4.1957578921e+01   0.00e+00  1.25e+01    1.000000e+00   2.000000e-03
+  14 2.0706798803e+01  -8.82e-01  1.25e-01    4.112345e-01   7.209218e-01
+
+After 14 iterations the fit converged.
+final sum of squares of residuals : 20.7068
+rel. change during last iteration : -8.81647e-06
+
+degrees of freedom    (FIT_NDF)                        : 199
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.322574
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.104054
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+w               = 0.411234         +/- 1.052        (255.9%)
+a               = 0.720922         +/- 1.044        (144.8%)
+
+correlation matrix of the fit parameters:
+                w      a      
+w               1.000 
+a              -0.657  1.000 
+
+
+*******************************************************************************
+Thu Nov 25 12:47:32 2021
+
+
+FIT:    data read from "read_J_PT_iQUAPI_ohmic.out" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 100.000]
+        #datapoints = 201
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = 0.5 - 0.5*(cos(w*x))*exp(-a*x)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   w             a            
+   0 9.4881442069e-01   0.00e+00  6.24e+00    5.000000e-01   2.000000e-03
+   5 1.7241134010e-05  -7.91e-03  6.24e-05    4.961919e-01   1.571409e-03
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 1.72411e-05
+rel. change during last iteration : -7.91074e-08
+
+degrees of freedom    (FIT_NDF)                        : 199
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000294345
+variance of residuals (reduced chisquare) = WSSR/ndf   : 8.66389e-08
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+w               = 0.496192         +/- 1.129e-06    (0.0002276%)
+a               = 0.00157141       +/- 1.156e-06    (0.07358%)
+
+correlation matrix of the fit parameters:
+                w      a      
+w               1.000 
+a              -0.003  1.000 
+
+
+*******************************************************************************
+Thu Nov 25 12:51:58 2021
+
+
+FIT:    data read from "read_J_PT_iQUAPI_ohmic.out" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 100.000]
+        #datapoints = 201
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = 0.5 - 0.5*(cos(w*x))*exp(-a*x)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   w             a            
+   0 9.4881442069e-01   0.00e+00  6.24e+00    5.000000e-01   2.000000e-03
+   5 1.7241134010e-05  -7.91e-03  6.24e-05    4.961919e-01   1.571409e-03
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 1.72411e-05
+rel. change during last iteration : -7.91074e-08
+
+degrees of freedom    (FIT_NDF)                        : 199
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000294345
+variance of residuals (reduced chisquare) = WSSR/ndf   : 8.66389e-08
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+w               = 0.496192         +/- 1.129e-06    (0.0002276%)
+a               = 0.00157141       +/- 1.156e-06    (0.07358%)
+
+correlation matrix of the fit parameters:
+                w      a      
+w               1.000 
+a              -0.003  1.000 
+
+
+*******************************************************************************
+Thu Nov 25 15:04:56 2021
+
+
+FIT:    data read from "read_J_PT_iQUAPI_ohmic.out" using 1:2
+        format = x:z
+        x range restricted to [0.00000 : 100.000]
+        #datapoints = 201
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = 0.5 - 0.5*(cos(w*x))*exp(-a*x)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   w             a            
+   0 3.4057251851e-01   0.00e+00  6.24e+00    5.000000e-01   2.000000e-03
+   5 5.4648324518e-06  -2.80e-01  6.24e-05    4.980874e-01   8.016911e-04
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 5.46483e-06
+rel. change during last iteration : -2.79957e-06
+
+degrees of freedom    (FIT_NDF)                        : 199
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000165715
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.74615e-08
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+w               = 0.498087         +/- 6.024e-07    (0.0001209%)
+a               = 0.000801691      +/- 6.127e-07    (0.07643%)
+
+correlation matrix of the fit parameters:
+                w      a      
+w               1.000 
+a               0.005  1.000 
